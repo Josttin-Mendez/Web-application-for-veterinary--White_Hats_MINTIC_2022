@@ -1,0 +1,59 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListaVeterinariosModel
+@{
+     <link rel="stylesheet" href="~/css/list.css" />
+}
+<body class="imagenConsultaV">
+<div class="formcons">
+<h1>Listado veterinarios </h1>
+
+<form method="get">
+    <div class="form-group">
+        <p>
+            <input type="text"  size= "50" placeholder="Introduzca el nombre..." name="Filtrobusqueda" asp-for="FiltroBusqueda"/>
+            <!--<input type="submit" value="Filtrar" />-->
+            <button type="submit" class = "btn btn-primary table-btn"><i class="fas fa-search fa-sm"></i></button>
+            <a class = "btn btn-primary table-btn" asp-page="./EditarVeterinario" class="btn-default"><i class="fas fa-fw fa-user-plus" title="Agregar"></i></a>
+        </p>
+</form>
+
+<table class="tabla" style="padding: 2px 3px ;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 7px;">
+     <tr >
+            
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Dirección</th>
+            <th>Teléfono</th>
+            <th>Tarjeta Profesional</th>
+            <th>Opciones</th>
+
+           
+        </tr>
+    @foreach (var veterinario in Model.listaVeterinarios)
+    {
+       
+          <tr>
+            <td>@veterinario.Nombres</td>
+            <td>@veterinario.Apellidos</td>
+            <td>@veterinario.Direccion</td>
+            <td>@veterinario.Telefono</td>
+            <td>@veterinario.TarjetaProfesional</td>
+             <td> <a class="btn btn-primary table-btn" asp-page="./DetallesVeterinarios" asp-route-veterinarioId="@veterinario.Id">
+             <i class="fas fa-fw fa-user-check" title="Detalles"></i>
+                </a>
+            <a class="btn btn-primary table-btn" asp-page="./EditarVeterinario" asp-route-veterinarioId="@veterinario.Id">
+             <i class="fas fa-fw fa-user-edit" title="Editar"></i>
+                </a>
+            </td>  
+        </tr> 
+   
+    }
+   
+
+</table>
+</div>
+</body>

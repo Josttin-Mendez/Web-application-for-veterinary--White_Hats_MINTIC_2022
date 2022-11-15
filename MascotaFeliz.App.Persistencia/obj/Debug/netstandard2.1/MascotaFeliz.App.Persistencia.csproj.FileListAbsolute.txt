@@ -1,0 +1,108 @@
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\White-hats-G-6-1b249a5d43de4c214ff7f7c0bdfbafa11e45c5a5\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\White-hats-G-6-ultimo\White-hats-G-6-ultimo\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.deps.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csprojAssemblyReference.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfoInputs.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.AssemblyInfo.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.csproj.CopyComplete
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Persistencia\obj\Debug\netstandard2.1\MascotaFeliz.App.Persistencia.pdb

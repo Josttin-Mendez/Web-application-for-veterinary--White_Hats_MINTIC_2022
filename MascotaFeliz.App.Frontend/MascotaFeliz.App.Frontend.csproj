@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\MascotaFeliz.App.Dominio\MascotaFeliz.App.Dominio.csproj" />
+    <ProjectReference Include="..\MascotaFeliz.App.Persistencia\MascotaFeliz.App.Persistencia.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

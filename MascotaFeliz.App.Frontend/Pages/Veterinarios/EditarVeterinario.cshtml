@@ -1,0 +1,34 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.EditarVeterinarioModel
+@{ 
+      <link rel="stylesheet" href="~/css/Style.css" />
+    int veterinarioId = Model.veterinario.Id;
+}
+
+<body class="imagenVeterinario">
+<div class="form-registerV">
+<h2>Agregar o editar Veterinario </h2>
+ 
+
+
+<form method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for ="veterinario.Id"/>
+        <label asp-for="veterinario.Nombres"></label>
+        <input asp-for="veterinario.Nombres" class="form-control">
+        <label asp-for="veterinario.Apellidos"></label>
+        <input asp-for="veterinario.Apellidos" class="form-control">
+        <label asp-for="veterinario.Direccion"></label>
+        <input asp-for="veterinario.Direccion" class="form-control">
+        <label asp-for="veterinario.Telefono"></label>
+        <input asp-for="veterinario.Telefono" class="form-control">
+        <label asp-for="veterinario.TarjetaProfesional"></label>
+        <input asp-for="veterinario.TarjetaProfesional" class="form-control">
+        
+        
+        <button type="submit" class="btn btn-primary"><i class="fas fa-fw fa-save" title="Guardar"></i></button>
+        <a class = "btn btn-primary table-btn" asp-page="./ListaVeterinarios" class="btn-default"><i class="fas fa-fw fa-undo-alt" title="Regresar"></i></a>
+    </div>
+</form>
+</div>
+</body>

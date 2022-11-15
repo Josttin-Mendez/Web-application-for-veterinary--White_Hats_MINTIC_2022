@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .imagenConsultaM {
+    background-image: url('./Img/fondo_mascotaC.jpeg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative;
+  }
+  .imagenConsultaD{
+    background-image: url('./Img/fondo_dueño.jpg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative;
+  }
+  .imagenConsultaV{
+    background-image: url('./Img/fondo_veterinario.jpg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative;
+  }
+  .imagenConsultaPyP{
+    background-image: url('./Img/fondo_pyp.jpeg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative; 
+  }
+  .formcons {
+    width: 1100px;
+    height: 500px;
+    min-width: 768px;
+    background: #e6e6e6cb;
+    border-radius: 9px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: 20px;
+    padding: 10px 10px;
+    margin-left: 10px;
+    margin-right:10px ;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    position: center;
+    text-align: center;
+
+}
+.formconsPyP {
+    width: 1100px;
+    height: 500px;
+    min-width: 768px;
+    background: #e6e6e6cb;
+    border-radius: 9px;
+    box-shadow: 0 0 40px -10px #000;
+    margin-left: 10px;
+    margin-right:10px ;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    position: center;
+    text-align: center;
+
+}
+h1{
+    margin: 50px 370px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 5px;
+    justify-content: center;
+    text-align: center;
+    width: 280px;
+    color: #2CCAAE; 
+    font-size: 25px; 
+
+}
+h2{
+    margin: 50px 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 5px;
+    justify-content: center;
+    text-align: center;
+    width: 280px;
+    color: #2CCAAE; 
+    font-size: 25px; 
+}
+input {
+
+    width: 20%;
+    padding: 3px;
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    resize: none;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    transition: all .3s;
+    border-bottom: 2px solid #2CCAAE;
+
+    
+}
+
+
+input:focus {
+    border-bottom: 2px solid black
+}
+
+.search{
+    position: relative; 
+    top: 40px; 
+}
+.btn-primary {
+    float: center;
+    padding: 8px 12px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    background: 0;
+    color: black;
+    cursor: pointer;
+    transition: all .3s;
+    border-radius: 7px;
+    
+}
+.btn-primary:hover {
+    background: #2CCAAE;
+    border: #2CCAAE;
+    color: #fff;
+    
+}
+table{
+    margin-top:40px;
+    padding: 2px 2px ;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 7px;
+
+}
+th {
+    border :1px solid black;;
+    background-color: #2CCAAE;
+    text-align: center;
+    padding: 6px;
+    font-size: 12px;
+}
+tr:nth-child(even) {
+    background-color: 0;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    font-size: 12px;
+}
+

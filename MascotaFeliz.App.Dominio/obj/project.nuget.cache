@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKqWLbCD/765ZPrwe/wyborGlvAQbsth4CYsblmFBYxdwqzsfb4ZPQmIu4KNzNVNexBvz345AMSxpFlGHvYsHw==",
+  "success": true,
+  "projectFilePath": "C:\\White-hats-G-6\\White-hats-G-6\\MascotaFeliz.App.Dominio\\MascotaFeliz.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,154 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav{
+  background-color: 0;
+  font-family: 'Share Tech', sans-serif;
+}
+a.navbar-brand {
+}
+ul li{
+  display: inline-block;
+  list-style: none;
+  padding: 3px 10px;
+  font-weight: 500;
+  font-size: 1.0rem;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+}
+ul li:hover{
+  background-color: #2CCAAE;
+  border-radius: 10px;
+  text-decoration: none;
+}
+header p{
+  font-size: 1.0rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header button{
+  padding: 0 5px;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  outline: none;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  background-color: #2CCAAE;
+  border-radius: 50px;
+  transition: width 0.5s;
+}
+.button img{
+  display: none;
+}
+button:hover img{
+  display: block;
+}
+header button:hover{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 135px;
+}
+/* Provide sufficient contrast against white background */
+a {
+  color: #2CCAAE;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #2CCAAE;
+  border-color: #2CCAAE;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #2CCAAE;
+  border-color: #2CCAAE;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 95%;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 95%;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+  font-size: 70;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space:nowrap;
+  line-height: 30px; /* Vertically center the text there */
+}
+.persona{
+  background: url('./Img/persona2.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 605px;
+  width: 530px;
+  right: -5%;
+  bottom: 0;
+  z-index: 999;
+  border: none;
+  background-size:auto;
+
+}
+.icons{
+  position: absolute;
+  margin-top: 250px;
+  left: 110px;
+  bottom: 4%;
+  padding: 0 10px;
+  margin-bottom: 9px;
+}
+.icons i{
+  font-size: 2.0rem;
+  padding: 0 0px;
+  cursor: pointer;
+}
+.icons i:hover{
+  color: #2CCAAE;
+  transition: all 0.3s ease 0s;
+}

@@ -1,0 +1,46 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListaVisitasPyPModel
+@{
+     <link rel="stylesheet" href="~/css/list.css" />
+}
+<body class="imagenConsultaPyP">
+<div class="formconsPyP">
+
+<h2>Listado VisitasPyP </h2>
+<table class="tabla"style="padding: 2px 3px ;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 7px;">
+     <tr>
+            
+            <th>Fecha Visita</th>
+            <th>Temperatura</th>
+            <th>Peso</th>
+            <th>Frecuencia Respiratoria</th>
+            <th>Frecuencia Cardiaca</th>
+            <th>Estado de Animo</th>
+            <th>IdVeterinario</th>
+            <th>Recomendaciones</th>
+                           
+        </tr>
+    @foreach (var visitasPyP in Model.listaVisitasPyP)
+    {
+       
+          <tr>
+            <td>@visitasPyP.FechaVisita</td>
+            <td>@visitasPyP.Temperatura</td>
+            <td>@visitasPyP.Peso</td>
+            <td>@visitasPyP.FrecuenciaRespiratoria</td>
+            <td>@visitasPyP.FrecuenciaCardiaca</td>
+            <td>@visitasPyP.EstadoAnimo</td>
+            <td>@visitasPyP.IdVeterinario</td>
+            <td>@visitasPyP.Recomendaciones</td>
+            
+        </tr> 
+    }
+
+</table>
+
+</body>
+</div>

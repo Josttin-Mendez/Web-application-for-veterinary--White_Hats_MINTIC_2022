@@ -1,0 +1,50 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.AsignarModel
+@{
+     <link rel="stylesheet" href="~/css/Style.css" />
+    int mascotaId = Model.mascota.Id;
+     DateTime fechaCreacion = DateTime.Now;
+}
+<body class="imagenMascota">
+<div class="form-registerM">
+<h2>Agregar o Editar Mascota </h2>
+
+<form method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for ="mascota.Id"/>
+         <label name ="Fecha"></label>
+        <input name = "fechaCreacion" type="date" asp-for = "@fechaCreacion" disabled/>
+        <br>
+        <label asp-for="mascota.Nombre"></label>
+        <input asp-for="mascota.Nombre" class="form-control">
+        <label asp-for="mascota.Color"></label>
+        <input asp-for="mascota.Color" class="form-control">
+        <label asp-for="mascota.Especie"></label>
+        <input asp-for="mascota.Especie" class="form-control">
+        <label asp-for="mascota.Raza"></label>
+        <input asp-for="mascota.Raza" class="form-control">
+        <label for = "Dueno" class = "form-label mb-0">Dueño</label>
+        <select class = "form-control" id="dueno" asp-for="mascota.Dueno.Id"
+            name="duenoId" aria-label="Default select example">
+            <option value ="0">Seleccione el Dueño</option>
+            @foreach (var dueno in Model.listaDuenos)
+            { 
+                <option value = "@dueno.Id">@dueno.Nombres @dueno.Apellidos </option>
+            }
+        </select>
+         <label for = "Veterinario" class = "form-label mb-0">Veterinario</label>
+        <select class = "form-control" id="veterinario" asp-for="mascota.Veterinario.Id"
+            name="veterinarioId" aria-label="Default select example">
+            <option value ="0">Seleccione el Veterinario</option>
+            @foreach (var veterinario in Model.listaVeterinarios)
+            {
+                <option value = "@veterinario.Id">@veterinario.Nombres @veterinario.Apellidos </option>
+            }
+        </select>
+        
+        <button type="submit" class="btn btn-primary"><i class="fas fa-fw fa-save" title="Guardar"></i></button>
+        <a class = "btn btn-primary table-btn" asp-page="./ListaMascotas" class="btn-default"><i class="fas fa-fw fa-undo-alt" title="Regresar"></i></a>
+    </div>
+</form>
+</div>
+</body>

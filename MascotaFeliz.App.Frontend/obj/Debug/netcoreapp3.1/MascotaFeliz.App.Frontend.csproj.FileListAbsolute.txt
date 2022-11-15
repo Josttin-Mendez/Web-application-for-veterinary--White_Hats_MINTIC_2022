@@ -1,0 +1,722 @@
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+<<<<<<< HEAD
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\Repo Mascota Feliz\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+=======
+>>>>>>> 31567cea84c6889f1effffe0a7e1710d9b9e146d
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+>>>>>>> d15cf03bbb766d7164af4902e375dc25fe9222e8
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\ClonRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\EditarMascotas.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\Mascotas\MascotaFeliz.App\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\VisitasPyP\ListaVisitasPyP.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\VisitasPyP\ListaVisitasPyP.cshtml.g.cs
+C:\Users\LVU8DK661\Desktop\TAREAS UCALDAS\repo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\Asignar.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\Asignar.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\EditarMascotas.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\VisitasPyP\ListaVisitasPyP.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\LENOVO\Downloads\Proyecto 1\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\Asignar.cshtml.g.cs
+C:\Mascotas\MascotaFeliz.App\ATGitHubRepo\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaVisitasPyP.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\Asignar.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaVisitasPyP.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\Users\Lizzeth Bejarano\Downloads\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.exe
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.deps.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.runtimeconfig.dev.json
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Dominio.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\bin\Debug\netcoreapp3.1\MascotaFeliz.App.Persistencia.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csprojAssemblyReference.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfoInputs.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.AssemblyInfo.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CoreCompileInputs.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorAssemblyInfo.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.input.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.TagHelpers.output.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorCoreGenerate.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Duenos\Listaduenos.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\Asignar.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListaVisitasPyP.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\EditarVeterinario.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.Views.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.csproj.CopyComplete
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.Manifest.cache
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\MascotaFeliz.App.Frontend.StaticWebAssets.xml
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.dll
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.pdb
+C:\White-hats-G-6\White-hats-G-6\MascotaFeliz.App.Frontend\obj\Debug\netcoreapp3.1\MascotaFeliz.App.Frontend.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.ListaMascotasModel
+@{
+  <link rel="stylesheet" href="~/css/list.css" />
+}
+<body class="imagenConsultaM">
+<div class="formcons">
+<h1>Listado Mascotas </h1>
+
+<form method="get">
+    <div class="form-group">
+        <p>
+            <input type="text"  size= "50" placeholder="Introduzca el nombre..." name="Filtrobusqueda" asp-for="FiltroBusqueda"/><button type="submit" class = "btn btn-primary table-btn"><i class="fas fa-search fa-sm"></i></button>
+            <a class = "btn btn-primary table-btn" asp-page="./Asignar" class="btn-default"><i class="fas fa-fw fa-user-plus" title="Agregar"></i></a>
+        </p>
+</form>
+
+<table class="tabla"style="padding: 2px 3px ;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 7px;">
+     <tr>
+            
+            <th>Nombre</th>
+            <th>Color</th>
+            <th>Especie</th>
+            <th>Raza</th>
+            <th>Dueño</th>
+            <th>Veterinario</th>
+            <th>Opciones</th>
+        </tr>
+    @foreach (var mascota in Model.listaMascotas)
+    {
+       
+          <tr>
+            <td>@mascota.Nombre</td>
+            <td>@mascota.Color</td>
+            <td>@mascota.Especie</td>
+            <td>@mascota.Raza</td>
+            <td>@mascota.Dueno.Nombres</td>
+            <td>@mascota.Veterinario.Nombres</td>
+            
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./DetallesMascotas" asp-route-mascotaId="@mascota.Id">
+                <i class="fas fa-fw fa-dog" title="Detalles"></i>
+                </a>
+           
+                <a class="btn btn-primary table-btn" asp-page="./ListaVisitasPyP" asp-route-mascotaId="@mascota.Id">
+                <i class="fas fa-fw fa-clipboard-list" title="Historia Clinica"></i>
+                </a>
+            
+                <a class="btn btn-primary table-btn" asp-page="./" asp-route-mascotaId="@mascota.Id">
+                <i class="fas fa-fw fa-calendar-plus" title="VisitasPyP"></i>
+                </a>
+            
+                <a class="btn btn-primary table-btn" asp-page="./Asignar" asp-route-mascotaId="@mascota.Id">
+                <i class="fas fa-fw fa-user-edit" title="Asignar"></i>     
+                </a>
+            </td>
+        </tr> 
+     }
+  
+</table>
+
+</div>
+</body>

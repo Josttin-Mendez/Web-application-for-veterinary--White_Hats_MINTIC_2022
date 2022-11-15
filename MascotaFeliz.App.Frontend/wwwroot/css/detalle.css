@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .imagenDetalle {
+    background-image: url('./Img/fondo_detalle.jpeg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative;
+  }
+  .imageninfo {
+    background-image: url('./Img/fondo_info.jpeg'); 
+    background-size: cover;
+    height: 50%;
+    position: relative;
+  }
+
+
+
+h1{ font-family: 'Share Tech', sans-serif;
+    color:#2CCAAE;
+    font-size: 40px;
+  }
+  .btn-primary {
+    width: 25%;
+    background: 0;
+    border: 2px solid black;
+    padding: 12px;
+    color: black;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all .3s;
+    border-radius: 7px;
+  }
+  
+  .btn-primary:hover {
+      background: #2CCAAE;
+      border: #2CCAAE;
+      color: #fff;
+      
+  }
+  div{
+  font-family: 'Share Tech', sans-serif;
+  }

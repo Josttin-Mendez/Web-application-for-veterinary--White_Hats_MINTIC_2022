@@ -1,0 +1,29 @@
+﻿@page
+@model MascotaFeliz.App.Frontend.Pages.DetallesMascotasModel
+@{
+         <link rel="stylesheet" href="~/css/detalle.css" />
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap" rel="stylesheet">
+}
+<body class="imagenDetalle">
+<h1> Detalles de la Mascota</h1>
+
+<div>
+ Id: @Model.mascota.Id
+</div>
+<div>
+ Nombre: @Model.mascota.Nombre
+</div>
+<div>
+ Color: @Model.mascota.Color
+</div>
+<div>
+ Especie: @Model.mascota.Especie
+</div>
+<div>
+ Raza: @Model.mascota.Raza
+</div>
+
+
+<a class = "btn btn-primary table-btn" asp-page="./ListaMascotas" class="btn-default"><i class="fas fa-fw fa-undo-alt" title="Regresar"></i></a>
+</body>
